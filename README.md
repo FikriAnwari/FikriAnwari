@@ -15,8 +15,8 @@ In March 2020, a 13-year-old Minecraft player was impressed and amazed by the be
 I've abandoned almost all of the programming languages ​​mentioned above. I haven't truly mastered any of them. However, the two areas I work most frequently in are **Web Development** and **IoT**
 
 # 🗣️ Speaking
-1. Indonesia
-2. Banjarese
+1. Indonesia <br>
+2. Banjarese <br>
 *Cannot Speak English (I'm Using translate 🥀)
 
 # 📊 GitHub Stats:
