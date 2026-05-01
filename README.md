@@ -12,6 +12,7 @@ In March 2020, a 13-year-old Minecraft player was impressed and amazed by the be
 8. PHP <br>
 9. SQL (MySql) <br>
 10. C <br>
+11. Svelte <br>
 I've abandoned almost all of the programming languages ​​mentioned above. I haven't truly mastered any of them. However, the two areas I work most frequently in are **Web Development** and **IoT**
 
 # 🗣️ Speaking
